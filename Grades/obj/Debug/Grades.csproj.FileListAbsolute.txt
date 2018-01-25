@@ -1,0 +1,6 @@
+C:\Users\jerhup\home\sandbox\pluralsight\CSharp\CSharpFundamentals\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\jerhup\home\sandbox\pluralsight\CSharp\CSharpFundamentals\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\jerhup\home\sandbox\pluralsight\CSharp\CSharpFundamentals\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\jerhup\home\sandbox\pluralsight\CSharp\CSharpFundamentals\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\jerhup\home\sandbox\pluralsight\CSharp\CSharpFundamentals\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\jerhup\home\sandbox\pluralsight\CSharp\CSharpFundamentals\Grades\Grades\obj\Debug\Grades.pdb
