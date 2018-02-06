@@ -101,3 +101,16 @@ namespace Grades.Tests.Types
         }
     }
 }
+
+
+
+//public enum employee
+//{
+//    fulltime = 4,
+//    parttime = 6,
+//    exempt = 15
+
+//}
+
+//How do I make this print to something that is a defined format(display name for enums)?
+//What happens if you do print it out(employee.fulltime)?
